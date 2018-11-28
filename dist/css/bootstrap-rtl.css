@@ -3004,9 +3004,9 @@ input[type="button"].btn-block {
   border-radius: 0.25rem;
 }
 
-.dropdown-menu-right {
-  right: 0;
-  left: auto;
+.dropdown-menu-left {
+  right: auto;
+  left: 0;
 }
 
 .dropup .dropdown-menu {
